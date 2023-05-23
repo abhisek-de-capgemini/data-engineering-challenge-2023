@@ -20,5 +20,4 @@ Download the repo as zip and extract or clone it to your laptop. There are the s
 - Exit DuckDb: `.exit`
 - If required, add execute permission to the Linux/Mac binary: `chmod u+x <platform>/duckdb`
 - In the repo you will find a file `README.png` which has the ER diagram of the dataset
-- On windows use `duckdb.exe ` for the command in (a)
 - Refer to README.png for the entity relation diagram
