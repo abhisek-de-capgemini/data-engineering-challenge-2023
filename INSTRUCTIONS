@@ -6,8 +6,10 @@ Download the repo as zip and extract or clone it to your laptop. There are the s
 - `win_x64/` binary for Windows 64 bit
 - `linux_x64/` binary for Linux 64 bit
 - `linux_arm64/` binary for Linux ARM 64
-- `mac_osx/` binary for Mac OSX (No sure if for Intel or Apple silicon, please verify and install Rosetta for Intel apps)
+- `mac_osx/` binary for Mac OSX 
+- We could not provide the binary for MAc OSX as it was too large for Github to store. Please download it from https://github.com/duckdb/duckdb/releases/download/v0.8.0/duckdb_cli-osx-universal.zip
 - `data/` sample datasets
+- More information on DuckDB at https://duckdb.org/docs/
 
 ### Uses
 - Open the DB: `<platform>/duckdb database.duckdb`. 
